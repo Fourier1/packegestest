@@ -1,0 +1,3 @@
+[console_scripts]
+proclam-sm = sm_lib.core:proclamer
+

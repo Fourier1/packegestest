@@ -1,0 +1,4 @@
+DateTime==4.2
+pytz==2017.3
+sm-lib==0.0.1
+zope.interface==4.4.3
